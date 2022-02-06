@@ -1,0 +1,13 @@
+h1, h2{
+    color: red ;
+}
+ol{
+    color: brown;
+}
+ul{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: brown;
+}
